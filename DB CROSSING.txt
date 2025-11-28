@@ -1,0 +1,23 @@
+
+				PERMOHONAN CROSSING / PERSINGGUNGAN BARU YANG BELUM DILIMPAHKAN : 
+
+NO,	NAMA PEMOHON,	SURAT PERMOHONAN,	BARU / PERPANJANGAN,	JUMLAH TITIK,	LOKASI,	PIC PRASARANA,	NOTE(sudah dilimpahkan, belum dilimpahkan, batal, permintaan data dukung, diproses subdit lain),   KETERANGAN
+
+
+				PROGRESS CROSSING / PERSINGGUNGAN BTP KELAS I JAKARTA:
+
+NO,	NAMA PEMOHON,	SURAT PERMOHONAN,	BARU / PERPANJANGAN,	JUMLAH TITIK/METER,	LOKASI,	SURAT PELIMPAHAN,	UNDANGAN RAPAT,	UNDANGAN TINJAUAN LAPANGAN,	LAPORAN HASIL PENELITIAN,	NOTA DINAS K3 KE SESDIT,	NOMOR SK,	PIC PRASARANA,	PIC BALAI,	NOTE(terbit, batal subdit 5, balai, sesdit, terbit, pemohon, revisi gambar),	KETERANGAN,	Perkiraan selesai di balai,	Potensi PNBP,
+
+
+==================================================
+TABEL MASTER :
+tabel pic :id_pic, nip, nama_pic, jabatan_pic,  
+tabel pemohon : id_pemohon, pemohon, nama_penanggungjawab, jabatan_penanggungjawab, no_tlp, alamat_pemohon
+tabel balai : id_balai, nama_balai,
+tabel pic_balai : id_pic_balai, nip_pic_balai, nama_pic_balai, jabatan_pic_balai 
+==================================================
+TABEL TRANSAKSI :
+
+tabel permohonan : 
+
+
