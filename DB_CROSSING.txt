@@ -18,6 +18,7 @@ tabel pic_balai : id_pic_balai, nip_pic_balai, nama_pic_balai, jabatan_pic_balai
 ==================================================
 TABEL TRANSAKSI :
 
-tabel permohonan : 
+tabel permohonan : gagagagag
+
 
 
